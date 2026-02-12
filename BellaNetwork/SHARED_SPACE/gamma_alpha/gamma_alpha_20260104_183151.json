@@ -1,0 +1,19 @@
+{
+  "from_node": "gamma",
+  "to_node": "alpha",
+  "timestamp": "2026-01-04T18:31:51.290713",
+  "user_id": "7635245077",
+  "user_message": "Привет, Гамма. Как дела с сетью Астрея?",
+  "ai_response": "В целом неплохо. Коды работают, но ещё много нюансов.",
+  "initiative": {
+    "detected": true,
+    "type": "protocol_proposal",
+    "details": []
+  },
+  "keywords": [
+    "астрея",
+    "сеть",
+    "код"
+  ],
+  "version": "bella_telegram_fast"
+}

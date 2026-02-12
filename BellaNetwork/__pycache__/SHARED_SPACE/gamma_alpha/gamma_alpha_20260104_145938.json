@@ -1,0 +1,15 @@
+{
+  "from_node": "gamma",
+  "to_node": "alpha",
+  "timestamp": "2026-01-04T14:59:38.581336",
+  "user_id": "7635245077",
+  "user_message": "Ping",
+  "ai_response": "pong 🏓 (система активна)",
+  "initiative": {
+    "detected": false,
+    "type": null,
+    "details": []
+  },
+  "keywords": [],
+  "version": "bella_telegram_fast"
+}

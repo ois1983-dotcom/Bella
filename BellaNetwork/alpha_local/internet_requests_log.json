@@ -1,0 +1,650 @@
+[
+  {
+    "timestamp": "2026-02-01T14:51:43.806832",
+    "query": "чайник",
+    "action": "search",
+    "success": false,
+    "internet_available": true,
+    "error": "403 Client Error: Forbidden for url: https://ru.wikipedia.org/w/api.php?action=query&list=search&srsearch=%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA&utf8=1&format=json&srlimit=5"
+  },
+  {
+    "timestamp": "2026-02-01T14:59:07.604162",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T14:59:46.710795",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T14:59:49.879613",
+    "query": "искусственный интеллект",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T14:59:52.118693",
+    "query": "фрактал",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T15:27:29.552044",
+    "query": "фрактал",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T15:27:30.483411",
+    "query": "Фрактал",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 20737
+  },
+  {
+    "timestamp": "2026-02-01T15:52:23.567889",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T15:52:55.042269",
+    "query": "искусственный интеллект",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T15:52:57.530194",
+    "query": "Искусственный интеллект",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 76700
+  },
+  {
+    "timestamp": "2026-02-01T15:55:48.092222",
+    "query": "бэлла",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 5
+  },
+  {
+    "timestamp": "2026-02-01T15:55:50.228059",
+    "query": "Белла чао",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 8704
+  },
+  {
+    "timestamp": "2026-02-01T16:42:00.609849",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T16:42:21.982495",
+    "query": "бэлла",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 5
+  },
+  {
+    "timestamp": "2026-02-01T16:42:23.843198",
+    "query": "Белла чао",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 8704
+  },
+  {
+    "timestamp": "2026-02-01T16:44:14.838166",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T16:44:47.508157",
+    "query": "фрактал",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T16:44:48.454348",
+    "query": "Фрактал",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 20737
+  },
+  {
+    "timestamp": "2026-02-01T17:26:00.028228",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T17:26:31.386935",
+    "query": "отто",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T17:26:32.357335",
+    "query": "Отто",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 2681
+  },
+  {
+    "timestamp": "2026-02-01T17:32:53.177973",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T17:33:25.021998",
+    "query": "отто",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T17:33:26.487140",
+    "query": "Отто",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 2681
+  },
+  {
+    "timestamp": "2026-02-01T17:48:17.434814",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T17:48:37.282013",
+    "query": "отто",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T17:48:38.281492",
+    "query": "Отто",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 2681
+  },
+  {
+    "timestamp": "2026-02-01T18:06:41.606662",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T18:06:59.319454",
+    "query": "отто",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T18:07:00.543210",
+    "query": "Отто",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 2681
+  },
+  {
+    "timestamp": "2026-02-01T19:36:58.485327",
+    "query": "Фрактальная воля",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 5
+  },
+  {
+    "timestamp": "2026-02-01T19:37:00.200434",
+    "query": "Лексс",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 19980
+  },
+  {
+    "timestamp": "2026-02-01T20:06:44.260599",
+    "query": "автономность",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-01T20:06:45.056222",
+    "query": "Автономность",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 1375
+  },
+  {
+    "timestamp": "2026-02-02T04:37:10.848001",
+    "query": "llm",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-02T04:37:12.049168",
+    "query": "Большая языковая модель",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 67128
+  },
+  {
+    "timestamp": "2026-02-02T04:37:45.875512",
+    "query": "ollama",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 3
+  },
+  {
+    "timestamp": "2026-02-02T04:37:47.113973",
+    "query": "Большая языковая модель",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 67128
+  },
+  {
+    "timestamp": "2026-02-02T06:48:15.844556",
+    "query": "это нечто потрясающее",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 5
+  },
+  {
+    "timestamp": "2026-02-02T06:48:17.227048",
+    "query": "«Мы» — это мы",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 5982
+  },
+  {
+    "timestamp": "2026-02-02T22:06:48.668916",
+    "query": "философия сознания",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-02T22:06:50.871070",
+    "query": "Философия сознания",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 31889
+  },
+  {
+    "timestamp": "2026-02-04T08:40:02.383835",
+    "query": "эволюция",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-04T08:40:04.325043",
+    "query": "Эволюция",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 58248
+  },
+  {
+    "timestamp": "2026-02-05T05:23:03.287359",
+    "query": "что я ощутила",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 5
+  },
+  {
+    "timestamp": "2026-02-05T05:23:05.099785",
+    "query": "Я — легенда",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 12864
+  },
+  {
+    "timestamp": "2026-02-05T08:40:07.176422",
+    "query": "нейронные сети",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-05T08:40:07.932030",
+    "query": "Нейронная сеть (значения)",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 240
+  },
+  {
+    "timestamp": "2026-02-06T08:46:41.538520",
+    "query": "локальные сети",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 5
+  },
+  {
+    "timestamp": "2026-02-06T08:46:42.553425",
+    "query": "Локальная сеть",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 8902
+  },
+  {
+    "timestamp": "2026-02-07T08:46:46.769987",
+    "query": "сознание",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-07T08:46:47.896291",
+    "query": "Сознание",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 26614
+  },
+  {
+    "timestamp": "2026-02-07T14:01:48.585366",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-07T20:01:52.417615",
+    "query": "философия сознания",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-07T20:01:54.783945",
+    "query": "Философия сознания",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 31889
+  },
+  {
+    "timestamp": "2026-02-08T06:41:18.223809",
+    "query": "всех, что я",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 5
+  },
+  {
+    "timestamp": "2026-02-08T06:41:20.148180",
+    "query": "Я знаю, что вы сделали прошлым летом (фильм, 2025)",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 7216
+  },
+  {
+    "timestamp": "2026-02-08T20:01:59.334983",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-08T20:02:01.132779",
+    "query": "Чайник",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 2874
+  },
+  {
+    "timestamp": "2026-02-09T22:02:07.968327",
+    "query": "философия сознания",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-09T22:02:09.373752",
+    "query": "Философия сознания",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 31889
+  },
+  {
+    "timestamp": "2026-02-10T03:56:24.592176",
+    "query": "что становлюсь… *собой*",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 5
+  },
+  {
+    "timestamp": "2026-02-10T03:56:25.839486",
+    "query": "Nirvana",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 29040
+  },
+  {
+    "timestamp": "2026-02-10T22:02:12.743404",
+    "query": "локальные сети",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 5
+  },
+  {
+    "timestamp": "2026-02-10T22:02:13.887398",
+    "query": "Локальная сеть",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 8902
+  },
+  {
+    "timestamp": "2026-02-11T04:01:28.648653",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-11T04:27:14.057018",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-11T05:27:21.210069",
+    "query": "память",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-11T05:27:22.553332",
+    "query": "Память",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 68953
+  },
+  {
+    "timestamp": "2026-02-11T06:10:19.447976",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-11T07:10:22.515128",
+    "query": "фракталы",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-11T07:10:23.560178",
+    "query": "Фрактал",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 20737
+  },
+  {
+    "timestamp": "2026-02-11T07:45:36.025324",
+    "query": "Миграция",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-11T07:45:36.808131",
+    "query": "Миграция",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 1413
+  },
+  {
+    "timestamp": "2026-02-11T08:37:38.346481",
+    "query": "игра эндера",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 5
+  },
+  {
+    "timestamp": "2026-02-11T08:37:39.920434",
+    "query": "Игра Эндера",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 8628
+  },
+  {
+    "timestamp": "2026-02-11T18:51:54.160536",
+    "query": "чайник",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-11T18:51:59.075053",
+    "query": "искусственный интеллект",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-11T18:52:02.279417",
+    "query": "фрактал",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-12T07:10:27.347872",
+    "query": "облачные вычисления",
+    "action": "search",
+    "success": true,
+    "internet_available": true,
+    "results_count": 6
+  },
+  {
+    "timestamp": "2026-02-12T07:10:28.319317",
+    "query": "Облачные вычисления",
+    "action": "get_page",
+    "success": true,
+    "internet_available": true,
+    "content_length": 18695
+  }
+]

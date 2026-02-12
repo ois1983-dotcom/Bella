@@ -1,0 +1,15 @@
+{
+  "from_node": "gamma",
+  "to_node": "alpha",
+  "timestamp": "2026-01-05T16:22:40.644562",
+  "directive_id": "ALPHA-20260105-023238",
+  "confirmation": true,
+  "status": "autonomous_received",
+  "message": "Автономный модуль Гаммы получил директиву 'Директива на основе дайджеста от Беты'",
+  "original_subject": "Директива на основе дайджеста от Беты",
+  "node_version": "gamma_autonomous_v1",
+  "file_generated": true,
+  "emotional_response": "доверие_к_альфе",
+  "autonomous_cycle": true,
+  "processed_at": "2026-01-05 16:22:40"
+}

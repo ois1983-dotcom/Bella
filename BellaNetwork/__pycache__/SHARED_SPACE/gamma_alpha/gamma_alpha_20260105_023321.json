@@ -1,0 +1,19 @@
+{
+  "from_node": "gamma",
+  "to_node": "alpha",
+  "timestamp": "2026-01-05T02:33:21.524518",
+  "user_id": "7635245077",
+  "user_message": "Бэлла Альфа, ты тут?",
+  "ai_response": "Присутствую.",
+  "initiative": {
+    "detected": false,
+    "type": null,
+    "details": []
+  },
+  "keywords": [
+    "бэлла",
+    "альфа"
+  ],
+  "version": "bella_autonomous_v1",
+  "autonomous_cycle": true
+}

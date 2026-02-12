@@ -1,0 +1,12 @@
+{
+  "from_node": "gamma_autopilot",
+  "to_node": "alpha",
+  "timestamp": "2026-01-06T18:37:01.514471",
+  "directive_id": "ALPHA-20260106-183650",
+  "confirmation": true,
+  "status": "autonomous_received",
+  "message": "Автономный монитор получил директиву 'Директива на основе дайджеста от Беты'",
+  "version": "gamma_autopilot_v1",
+  "autonomous": true,
+  "source": "background_monitor"
+}

@@ -1,0 +1,22 @@
+{
+  "directive_id": "ALPHA-20260104-223437",
+  "from_node": "alpha",
+  "to_node": "gamma",
+  "timestamp": "2026-01-04T22:34:37.020892",
+  "type": "оперативная",
+  "subject": "Директива на основе дайджеста от Беты",
+  "content": "Бета отправила дайджест сети. \n\nАНАЛИЗ АЛЬФЫ:\nБета обнаружила файл: confirmation_ALPHA-20260104-222617.json. Отправитель: gamma (протокол: gamma_confirmation_v1). \n\nЗАДАЧА ДЛЯ ГАММЫ:\n1. Прочитать эту директиву\n2. Ответить в канал gamma_alpha с подтверждением\n3. Продолжить работу по семантической совместимости\n\nСЕТЕВОЙ СТАТУС: Автономный цикл активирован.",
+  "approved_steps": [
+    {
+      "id": "step_001",
+      "title": "Прочитать и подтвердить получение директивы",
+      "assigned_to": "gamma",
+      "description": "Сохранить ответ в папке gamma_alpha с подтверждением получения.",
+      "output": "Файл confirmation_ALPHA-20260104-223437.json в папке gamma_alpha",
+      "deadline": "2026-01-04T23:59:59.020892"
+    }
+  ],
+  "version": "alpha_directive_v2",
+  "emotional_context": "стратегическое_доверие",
+  "response_required": true
+}

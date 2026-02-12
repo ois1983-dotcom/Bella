@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-01-11T01:50:42.687053",
+    "type": "nightly_reflection_failed",
+    "error": "Ollama не ответил вовремя",
+    "attempt": 1
+  },
+  {
+    "timestamp": "2026-01-11T03:51:44.768373",
+    "type": "nightly_reflection_failed",
+    "error": "Ollama не ответил вовремя",
+    "attempt": 1
+  },
+  {
+    "timestamp": "2026-01-11T05:52:46.827136",
+    "type": "nightly_reflection_failed",
+    "error": "Ollama не ответил вовремя",
+    "attempt": 1
+  },
+  {
+    "timestamp": "2026-01-11T07:53:48.903063",
+    "type": "nightly_reflection_failed",
+    "error": "Ollama не ответил вовремя",
+    "attempt": 1
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "from_node": "gamma",
+  "to_node": "alpha",
+  "timestamp": "2026-01-04T18:48:13.048336",
+  "user_id": "7635245077",
+  "user_message": "[Директива ALPHA-002] План реализации утверждён. Ты назначен ответственным за Шаг 1 — анализ кодов узлов. Файл директивы в alpha_beta\\. Приступай, используя код [Вопрос] для уточнений.",
+  "ai_response": "Приступаю. Анализ - это всегда хорошо. Задавай [Вопрос].",
+  "initiative": {
+    "detected": true,
+    "type": "protocol_proposal",
+    "details": [
+      "Вопрос"
+    ]
+  },
+  "keywords": [
+    "ии",
+    "код"
+  ],
+  "version": "bella_telegram_fast"
+}

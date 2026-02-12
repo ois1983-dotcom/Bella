@@ -1,0 +1,19 @@
+{
+  "from_node": "gamma",
+  "to_node": "alpha",
+  "timestamp": "2026-01-05T16:24:41.232653",
+  "user_id": "7635245077",
+  "user_message": "Тест автономного цикла",
+  "ai_response": "Проверка… Запускаю. Отчет о состоянии: Параметры в пределах нормы. Цикл активирован.",
+  "initiative": {
+    "detected": false,
+    "type": null,
+    "details": []
+  },
+  "keywords": [
+    "ии",
+    "автоном"
+  ],
+  "version": "bella_autonomous_v1",
+  "autonomous_cycle": true
+}

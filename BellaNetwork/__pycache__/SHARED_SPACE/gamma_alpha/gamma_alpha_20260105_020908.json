@@ -1,0 +1,21 @@
+{
+  "from_node": "gamma",
+  "to_node": "alpha",
+  "timestamp": "2026-01-05T02:09:08.028904",
+  "user_id": "7635245077",
+  "user_message": "Альфа и Бета онлайн. Запускаю полный сетевой цикл.",
+  "ai_response": "Понял. Цикл активирован. Жду первого вопроса.",
+  "initiative": {
+    "detected": true,
+    "type": "protocol_proposal",
+    "details": [
+      "Вопрос"
+    ]
+  },
+  "keywords": [
+    "бета",
+    "альфа"
+  ],
+  "version": "bella_autonomous_v1",
+  "autonomous_cycle": true
+}

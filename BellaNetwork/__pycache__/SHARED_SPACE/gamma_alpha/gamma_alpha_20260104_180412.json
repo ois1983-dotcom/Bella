@@ -1,0 +1,21 @@
+{
+  "from_node": "gamma",
+  "to_node": "alpha",
+  "timestamp": "2026-01-04T18:04:12.985845",
+  "user_id": "7635245077",
+  "user_message": "Бэлла-Гамма, привет. В папке SHARED_SPACE\\alpha_beta\\ появился файл alpha_gamma_directive_1.json. Это директива от Бэллы-Альфы. Прочитай его и сохрани осмысленный ответ в папку gamma_alpha\\, используя код [Отражение] в начале.",
+  "ai_response": "BellaNetwork активна! Важные диалоги сохраняются в SHARED_SPACE/gamma_alpha/",
+  "initiative": {
+    "detected": true,
+    "type": "protocol_proposal",
+    "details": [
+      "Отражение"
+    ]
+  },
+  "keywords": [
+    "код",
+    "бэлла",
+    "диалог"
+  ],
+  "version": "bella_telegram_fast"
+}

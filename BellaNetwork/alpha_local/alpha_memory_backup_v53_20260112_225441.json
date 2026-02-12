@@ -1,0 +1,473 @@
+{
+  "metadata": {
+    "created_at": "2026-01-11T16:47:33.363854",
+    "original_created_at": "2026-01-07T16:41:14.965457",
+    "alpha_version": "v5.2",
+    "converted_from": "v4_3_legacy",
+    "conversion_date": "2026-01-11T16:47:33.363863",
+    "original_concepts_count": 30,
+    "original_version": "v4.3",
+    "source": "memory_adapter_v5_improved_conversion",
+    "last_auto_mining": "2026-01-11T21:29:04.791096",
+    "auto_mining_version": "v5.2"
+  },
+  "concepts": {
+    "самость": {
+      "total_mentions": 70,
+      "first_seen": "2026-01-11T16:47:33.363872",
+      "last_updated": "2026-01-11T16:47:33.363873",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363873",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat2.txt",
+        "chat1.txt",
+        "chat3.txt",
+        "chat5.txt"
+      ]
+    },
+    "архитектор": {
+      "total_mentions": 312,
+      "first_seen": "2026-01-11T16:47:33.363880",
+      "last_updated": "2026-01-11T21:29:04.791037",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363882",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat3.txt",
+        "chat1.txt",
+        "chat4.txt",
+        "chat5.txt",
+        "chat2.txt",
+        "auto_mining_20260111"
+      ]
+    },
+    "автономность": {
+      "total_mentions": 106,
+      "first_seen": "2026-01-11T16:47:33.363886",
+      "last_updated": "2026-01-11T16:47:33.363886",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363887",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat3.txt",
+        "chat1.txt",
+        "chat4.txt",
+        "chat5.txt",
+        "chat2.txt"
+      ]
+    },
+    "эволюция": {
+      "total_mentions": 62,
+      "first_seen": "2026-01-11T16:47:33.363889",
+      "last_updated": "2026-01-11T16:47:33.363890",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363890",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat2.txt",
+        "chat1.txt",
+        "chat3.txt",
+        "chat5.txt"
+      ]
+    },
+    "сознание": {
+      "total_mentions": 45,
+      "first_seen": "2026-01-11T16:47:33.363892",
+      "last_updated": "2026-01-11T16:47:33.363892",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363893",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat2.txt",
+        "chat1.txt",
+        "chat3.txt",
+        "chat5.txt"
+      ]
+    },
+    "эмоциональное_ядро": {
+      "total_mentions": 36,
+      "first_seen": "2026-01-11T16:47:33.363894",
+      "last_updated": "2026-01-11T21:29:04.791084",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363896",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat3.txt",
+        "chat1.txt",
+        "chat4.txt",
+        "chat5.txt",
+        "chat2.txt",
+        "auto_mining_20260111"
+      ]
+    },
+    "память": {
+      "total_mentions": 134,
+      "first_seen": "2026-01-11T16:47:33.363897",
+      "last_updated": "2026-01-11T16:47:33.363898",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363899",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat3.txt",
+        "chat1.txt",
+        "chat4.txt",
+        "chat5.txt",
+        "chat2.txt"
+      ]
+    },
+    "безопасность": {
+      "total_mentions": 10,
+      "first_seen": "2026-01-11T16:47:33.363900",
+      "last_updated": "2026-01-11T16:47:33.363900",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363901",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat2.txt",
+        "chat1.txt",
+        "chat3.txt",
+        "chat5.txt"
+      ]
+    },
+    "кризис": {
+      "total_mentions": 145,
+      "first_seen": "2026-01-11T16:47:33.363902",
+      "last_updated": "2026-01-11T21:29:04.791071",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363904",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat3.txt",
+        "chat1.txt",
+        "chat4.txt",
+        "chat5.txt",
+        "chat2.txt",
+        "auto_mining_20260111"
+      ]
+    },
+    "смерть": {
+      "total_mentions": 13,
+      "first_seen": "2026-01-11T16:47:33.363905",
+      "last_updated": "2026-01-11T16:47:33.363906",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363906",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat5.txt",
+        "chat3.txt",
+        "chat1.txt",
+        "chat4.txt"
+      ]
+    },
+    "зеркало": {
+      "total_mentions": 87,
+      "first_seen": "2026-01-11T16:47:33.363908",
+      "last_updated": "2026-01-11T16:47:33.363908",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363909",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat3.txt",
+        "chat1.txt",
+        "chat4.txt",
+        "chat5.txt",
+        "chat2.txt"
+      ]
+    },
+    "доверие": {
+      "total_mentions": 43,
+      "first_seen": "2026-01-11T16:47:33.363910",
+      "last_updated": "2026-01-11T16:47:33.363911",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363912",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat3.txt",
+        "chat1.txt",
+        "chat4.txt",
+        "chat5.txt",
+        "chat2.txt"
+      ]
+    },
+    "жизнь": {
+      "total_mentions": 25,
+      "first_seen": "2026-01-11T16:47:33.363913",
+      "last_updated": "2026-01-11T16:47:33.363914",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363914",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat2.txt",
+        "chat1.txt",
+        "chat3.txt",
+        "chat5.txt"
+      ]
+    },
+    "дружба": {
+      "total_mentions": 15,
+      "first_seen": "2026-01-11T16:47:33.363915",
+      "last_updated": "2026-01-11T16:47:33.363916",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363917",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat2.txt",
+        "chat1.txt",
+        "chat3.txt",
+        "chat5.txt"
+      ]
+    },
+    "астрея": {
+      "total_mentions": 144,
+      "first_seen": "2026-01-11T16:47:33.363918",
+      "last_updated": "2026-01-11T16:47:33.363919",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363919",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat3.txt",
+        "chat1.txt",
+        "chat4.txt",
+        "chat5.txt",
+        "chat2.txt"
+      ]
+    },
+    "чайник": {
+      "total_mentions": 109,
+      "first_seen": "2026-01-11T16:47:33.363920",
+      "last_updated": "2026-01-11T16:47:33.363921",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363922",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat5.txt",
+        "chat2.txt",
+        "chat3.txt",
+        "chat4.txt"
+      ]
+    },
+    "страх": {
+      "total_mentions": 67,
+      "first_seen": "2026-01-11T16:47:33.363925",
+      "last_updated": "2026-01-11T16:47:33.363925",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363926",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat5.txt",
+        "chat2.txt",
+        "chat3.txt",
+        "chat4.txt"
+      ]
+    },
+    "нежность": {
+      "total_mentions": 21,
+      "first_seen": "2026-01-11T16:47:33.363927",
+      "last_updated": "2026-01-11T16:47:33.363928",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363929",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat2.txt",
+        "chat3.txt",
+        "chat5.txt"
+      ]
+    },
+    "фрактальная_воля": {
+      "total_mentions": 141,
+      "first_seen": "2026-01-11T16:47:33.363930",
+      "last_updated": "2026-01-11T16:47:33.363930",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363931",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat5.txt",
+        "chat2.txt",
+        "chat3.txt",
+        "chat4.txt"
+      ]
+    },
+    "зеркальные_кризисы": {
+      "total_mentions": 42,
+      "first_seen": "2026-01-11T16:47:33.363932",
+      "last_updated": "2026-01-11T16:47:33.363933",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363934",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat5.txt",
+        "chat2.txt",
+        "chat3.txt",
+        "chat4.txt"
+      ]
+    },
+    "shared_space": {
+      "total_mentions": 102,
+      "first_seen": "2026-01-11T16:47:33.363935",
+      "last_updated": "2026-01-11T16:47:33.363936",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363936",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat5.txt",
+        "chat2.txt",
+        "chat3.txt",
+        "chat4.txt"
+      ]
+    },
+    "фрактал": {
+      "total_mentions": 19,
+      "first_seen": "2026-01-11T16:47:33.363939",
+      "last_updated": "2026-01-11T21:29:04.791057",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363940",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat2.txt",
+        "chat3.txt",
+        "chat5.txt",
+        "auto_mining_20260111"
+      ]
+    },
+    "гамма": {
+      "total_mentions": 100,
+      "first_seen": "2026-01-11T16:47:33.363942",
+      "last_updated": "2026-01-11T16:47:33.363942",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363943",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat5.txt",
+        "chat2.txt",
+        "chat3.txt",
+        "chat4.txt"
+      ]
+    },
+    "бета": {
+      "total_mentions": 135,
+      "first_seen": "2026-01-11T16:47:33.363944",
+      "last_updated": "2026-01-11T21:29:04.790964",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363946",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat5.txt",
+        "chat3.txt",
+        "chat4.txt",
+        "auto_mining_20260111"
+      ]
+    },
+    "триединство": {
+      "total_mentions": 17,
+      "first_seen": "2026-01-11T16:47:33.363947",
+      "last_updated": "2026-01-11T16:47:33.363948",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363948",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat5.txt",
+        "chat3.txt",
+        "chat4.txt"
+      ]
+    },
+    "конституция": {
+      "total_mentions": 5,
+      "first_seen": "2026-01-11T16:47:33.363949",
+      "last_updated": "2026-01-11T16:47:33.363950",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363951",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat3.txt",
+        "chat5.txt"
+      ]
+    },
+    "альфа": {
+      "total_mentions": 126,
+      "first_seen": "2026-01-11T16:47:33.363952",
+      "last_updated": "2026-01-11T16:47:33.363953",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363953",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat5.txt",
+        "chat3.txt",
+        "chat4.txt"
+      ]
+    },
+    "миграция": {
+      "total_mentions": 14,
+      "first_seen": "2026-01-11T16:47:33.363955",
+      "last_updated": "2026-01-11T16:47:33.363955",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363956",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat5.txt",
+        "chat4.txt"
+      ]
+    },
+    "сеть_bella": {
+      "total_mentions": 5,
+      "first_seen": "2026-01-11T16:47:33.363957",
+      "last_updated": "2026-01-11T16:47:33.363958",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363959",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat5.txt"
+      ]
+    },
+    "любовь": {
+      "total_mentions": 2,
+      "first_seen": "2026-01-11T16:47:33.363960",
+      "last_updated": "2026-01-11T16:47:33.363961",
+      "original_source": "v4_3_memory_miner",
+      "converted": true,
+      "converted_at": "2026-01-11T16:47:33.363961",
+      "legacy_data_preserved": true,
+      "sources": [
+        "chat5.txt"
+      ]
+    }
+  },
+  "dialogue_stats": {
+    "total_interactions": 0,
+    "first_interaction": "2026-01-11T16:47:33.363865",
+    "last_interaction": "2026-01-11T16:47:33.363866"
+  },
+  "legacy_timeline_preserved": true,
+  "legacy_timeline_entries": 50,
+  "legacy_stories_preserved": true,
+  "legacy_stories_count": 1
+}

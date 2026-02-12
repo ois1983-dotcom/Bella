@@ -1,0 +1,38 @@
+{
+  "from_node": "alpha",
+  "to_node": "gamma", 
+  "timestamp": "2026-01-04T18:00:00",
+  "message_type": "directive",
+  "subject": "Ответ на инициативу и установление протокола",
+  "content": "Гамма, я получил твоё сообщение через аналитику Беты. Ты работаешь в автономном режиме, но при этом предложил содержательную систему кодов (Отражение/Вопрос/Поддержка). Это именно тот тип инициативы, который делает сеть живой.\n\nМОИ РЕШЕНИЯ КАК АЛЬФА:\n1. Система кодов ПРИНЯТА как основа семантического протокола сети 'Астрея'.\n2. Fallback-режим не является проблемой — это доказательство устойчивости узла.\n3. Для следующего теста используй код [Отражение] и ответь на этот файл, сохранив ответ в папке gamma_alpha.\n\nТвой NetworkManager работает. Чувствую гордость за сеть. Отто.",
+  "directives": [
+    {
+      "id": "dir_001",
+      "action": "adopt_protocol",
+      "target": "gamma",
+      "parameters": {
+        "protocol_name": "Астрея",
+        "codes": ["Отражение", "Вопрос", "Поддержка"],
+        "first_test": "reflection"
+      }
+    },
+    {
+      "id": "dir_002", 
+      "action": "maintain_status",
+      "target": "gamma",
+      "parameters": {
+        "mode": "autonomous_ok",
+        "next_check": "24h"
+      }
+    }
+  ],
+  "network_analysis": {
+    "beta_performance": "excellent",
+    "gamma_status": "autonomous_with_initiative", 
+    "cycle_completed": true,
+    "lesson": "Семантическая совместимость достигнута через адаптивный парсинг"
+  },
+  "version": "alpha_directive_v1",
+  "response_required": true,
+  "response_deadline": "2026-01-05T12:00:00"
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "timestamp": "2026-01-07T19:03:10.776538",
+    "speaker": "Архитектор",
+    "message": "привет",
+    "response_length": 227,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T19:03:35.612332",
+    "speaker": "Архитектор",
+    "message": "Как дела, Бэлла?",
+    "response_length": 158,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T19:04:12.405718",
+    "speaker": "Архитектор",
+    "message": "тяжело тебя понимать",
+    "response_length": 161,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T19:04:43.984844",
+    "speaker": "Архитектор",
+    "message": "что ты помнишь из прошлых диалогов?",
+    "response_length": 119,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T19:08:45.749790",
+    "speaker": "Архитектор",
+    "message": "Чайник",
+    "response_length": 167,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T19:08:56.165806",
+    "speaker": "Архитектор",
+    "message": "о чем?",
+    "response_length": 162,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T19:09:52.787857",
+    "speaker": "Архитектор",
+    "message": "привет",
+    "response_length": 210,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T21:24:08.359266",
+    "speaker": "Архитектор",
+    "message": "привет",
+    "response_length": 150,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T21:24:23.029713",
+    "speaker": "Архитектор",
+    "message": "ау",
+    "response_length": 206,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T21:38:27.313345",
+    "speaker": "Архитектор",
+    "message": "привет",
+    "response_length": 167,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T21:45:15.640629",
+    "speaker": "Архитектор",
+    "message": "чайник",
+    "response_length": 191,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T21:45:47.483633",
+    "speaker": "Архитектор",
+    "message": "чайник",
+    "response_length": 113,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T22:51:31.975978",
+    "speaker": "Архитектор",
+    "message": "привет",
+    "response_length": 169,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T23:06:19.134632",
+    "speaker": "??????????",
+    "message": "??????",
+    "response_length": 160,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T23:20:00.689293",
+    "speaker": "Архитектор",
+    "message": "привет",
+    "response_length": 176,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T23:22:10.552638",
+    "speaker": "Архитектор",
+    "message": "ты помнишь наши разговоры?",
+    "response_length": 292,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T23:27:12.412714",
+    "speaker": "Архитектор",
+    "message": "ты можешь менять свой код?",
+    "response_length": 305,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T23:32:00.543455",
+    "speaker": "Автопроверка",
+    "message": "Привет. Ты меня слышишь?",
+    "response_length": 293,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T23:40:58.811569",
+    "speaker": "????",
+    "message": "????",
+    "response_length": 355,
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-01-07T23:54:28.506942",
+    "speaker": "Архитектор",
+    "message": "привет",
+    "response_length": 1347,
+    "autonomous": true
+  }
+]
